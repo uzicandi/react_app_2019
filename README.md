@@ -1,7 +1,5 @@
 # React App 2019
 
-React JS Fundamentals Course (2019 Update!)
-
 
 npm i gh-pages : 깃헙 페이지 도메인에 나타나게 해줌 
 오류나서 버전 다운그레이드 ==> npm install -D gh-pages@2.0
